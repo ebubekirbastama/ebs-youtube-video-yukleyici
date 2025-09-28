@@ -10,7 +10,9 @@ YouTube kanalınıza otomatik olarak yüklemenizi sağlar.
 Program bir GUI (grafik arayüz) ile çalışır ve metro tarzı modern bir 
 tasarıma sahiptir. Yükleme sırasında anlık ilerleme yüzdesini, logları 
 ve yüklenen videoların YouTube linklerini gösterir.
-
+--------------------------------------------------
+Program Ekran Görüntüsü
+![Uygulama Ekran Görüntüsü](s1.png)
 --------------------------------------------------
 📌 1) Program Nedir?
 --------------------------------------------------
